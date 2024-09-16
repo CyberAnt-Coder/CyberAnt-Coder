@@ -13,15 +13,15 @@
 - <b>Conducting a Security Audit</b>
   - [Controls Assesment](https://github.com/joshmadakor1/Algorithms-Practice)
 
-- <b>Linux</b>
-  - [Linux File Permissions](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Python</b>
+  - [Importing and Parsing a Text File](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Creating Portscanner](ht)
 
 - <b>SQL</b>
   - [Applying Filters to SQL Queries](https://github.com/joshmadakor1/Algorithms-Practice)
 
-- <b>Python</b>
-  - [Importing and Parsing a Text File](https://github.com/joshmadakor1/Algorithms-Practice)
-
+- <b>Linux</b>
+  - [Linux File Permissions](https://github.com/joshmadakor1/Algorithms-Practice)
 
 <h2>📄 Certifications:</h2>
 
