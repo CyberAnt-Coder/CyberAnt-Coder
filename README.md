@@ -2,7 +2,7 @@
 <h2>👨‍💻 Cybersecurity Projects(Change Links):</h2>
 
 - <b>Conducting a Security Audit</b>
-  - [Controls Assesment](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Controls Assesment](https://github.com/CyberAnt-Coder/Controls-Assesment)
   - [Compliance Checklist](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Stakeholder Memorandum](https://github.com/joshmadakor1/Algorithms-Practice)
 
