@@ -3,7 +3,7 @@
 
 - <b>Conducting a Security Audit</b>
   - [Controls Assesment](https://github.com/CyberAnt-Coder/Controls-Assesment)
-  - [Compliance Checklist](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Compliance Checklist](https://github.com/CyberAnt-Coder/Compliance-Checklist)
   - [Stakeholder Memorandum](https://github.com/joshmadakor1/Algorithms-Practice)
 
 - <b>NIST Framework/Incident Response</b>
