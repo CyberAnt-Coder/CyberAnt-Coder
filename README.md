@@ -4,7 +4,7 @@
 - <b>Conducting a Security Audit</b>
   - [Controls Assesment](https://github.com/CyberAnt-Coder/Controls-Assesment)
   - [Compliance Checklist](https://github.com/CyberAnt-Coder/Compliance-Checklist)
-  - [Stakeholder Memorandum](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Stakeholder Memorandum](https://github.com/CyberAnt-Coder/Stakeholder-Memorandum)
 
 - <b>NIST Framework/Incident Response</b>
   - [Incident Report Analysis](https://github.com/joshmadakor1/Algorithms-Practice)
