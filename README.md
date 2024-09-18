@@ -11,14 +11,14 @@
   - [Incident Handler's Journal](https://github.com/CyberAnt-Coder/Incident-Handlers-Journal)
 
 - <b>Python</b>
-  - [Importing and Parsing a Text File](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Importing and Parsing a Text File](htt)
   - [Creating Portscanner](ht)
 
 - <b>SQL</b>
-  - [Applying Filters to SQL Queries](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Applying Filters to SQL Queries](ht)
 
 - <b>Linux</b>
-  - [Linux File Permissions](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Linux File Permissions](ht)
 
 <h2>📄 Certifications:</h2>
 
