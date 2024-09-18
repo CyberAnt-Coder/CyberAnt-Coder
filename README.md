@@ -10,9 +10,6 @@
   - [Incident Report Analysis](https://github.com/CyberAnt-Coder/Incident-Report-Analysis)
   - [Incident Handler's Journal](https://github.com/CyberAnt-Coder/Incident-Handlers-Journal)
 
-- <b>Conducting a Security Audit</b>
-  - [Controls Assesment](https://github.com/joshmadakor1/Algorithms-Practice)
-
 - <b>Python</b>
   - [Importing and Parsing a Text File](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Creating Portscanner](ht)
