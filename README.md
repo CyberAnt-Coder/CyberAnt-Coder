@@ -7,7 +7,7 @@
   - [Stakeholder Memorandum](https://github.com/CyberAnt-Coder/Stakeholder-Memorandum)
 
 - <b>NIST Framework/Incident Response</b>
-  - [Incident Report Analysis](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Incident Report Analysis](https://github.com/CyberAnt-Coder/Incident-Report-Analysis)
   - [Incident Handler's Journal](https://github)
 
 - <b>Conducting a Security Audit</b>
