@@ -8,7 +8,7 @@
 
 - <b>NIST Framework/Incident Response</b>
   - [Incident Report Analysis](https://github.com/CyberAnt-Coder/Incident-Report-Analysis)
-  - [Incident Handler's Journal](https://github)
+  - [Incident Handler's Journal](https://github.com/CyberAnt-Coder/Incident-Handlers-Journal)
 
 - <b>Conducting a Security Audit</b>
   - [Controls Assesment](https://github.com/joshmadakor1/Algorithms-Practice)
