@@ -18,7 +18,7 @@
   - [Applying Filters to SQL Queries](https://github.com/CyberAnt-Coder/Applying_SQL_Filters)
 
 - <b>Linux</b>
-  - [Linux File Permissions](ht)
+  - [Linux File Permissions](https://github.com/CyberAnt-Coder/Linux_File_Permissions)
 
 <h2>📄 Certifications:</h2>
 
