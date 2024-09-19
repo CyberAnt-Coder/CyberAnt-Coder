@@ -11,11 +11,11 @@
   - [Incident Handler's Journal](https://github.com/CyberAnt-Coder/Incident-Handlers-Journal)
 
 - <b>Python</b>
-  - [Importing and Parsing a Text File](htt)
-  - [Creating Portscanner](ht)
+  - [Importing and Parsing a Text File](https://github.com/CyberAnt-Coder/Algorithm-For-File-Updates)
+  - [Creating Portscanner(In progress)](https://github.com)
 
 - <b>SQL</b>
-  - [Applying Filters to SQL Queries](ht)
+  - [Applying Filters to SQL Queries](https://github.com/CyberAnt-Coder/Applying_SQL_Filters)
 
 - <b>Linux</b>
   - [Linux File Permissions](ht)
