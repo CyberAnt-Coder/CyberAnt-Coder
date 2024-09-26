@@ -1,5 +1,5 @@
 <h1>Hi, I'm Anthony! <br/><a href="https://github.com/CyberAnt-Coder">Programmer</a>, <a href="www.linkedin.com/in/anthonythanh-tran">Cybersecurity Student</a>
-<h2>👨‍💻 Cybersecurity Projects(Change Links):</h2>
+<h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Conducting a Security Audit</b>
   - [Controls Assesment](https://github.com/CyberAnt-Coder/Controls-Assesment)
