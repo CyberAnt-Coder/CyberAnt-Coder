@@ -12,7 +12,7 @@
 
 - <b>Python</b>
   - [Importing and Parsing a Text File](https://github.com/CyberAnt-Coder/Algorithm-For-File-Updates)
-  - [Creating Portscanner(In progress)](https://github.com)
+  - [Creating Portscanner](https://github.com/CyberAnt-Coder/Creating-A-Portscanner)
 
 - <b>SQL</b>
   - [Applying Filters to SQL Queries](https://github.com/CyberAnt-Coder/Applying_SQL_Filters)
