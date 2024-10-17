@@ -10,6 +10,9 @@
   - [Incident Report Analysis](https://github.com/CyberAnt-Coder/Incident-Report-Analysis)
   - [Incident Handler's Journal](https://github.com/CyberAnt-Coder/Incident-Handlers-Journal)
 
+- <b>osTicket</b>
+  - - [Deploying osTicket In Azure](https://github.com/CyberAnt-Coder/Deploying-and-Managing-osTicket-In-Azure)
+
 - <b>Python</b>
   - [Importing and Parsing a Text File](https://github.com/CyberAnt-Coder/Algorithm-For-File-Updates)
   - [Creating Portscanner](https://github.com/CyberAnt-Coder/Creating-A-Portscanner)
